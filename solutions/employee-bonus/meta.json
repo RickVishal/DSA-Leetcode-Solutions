@@ -1,0 +1,13 @@
+{
+  "id": "577",
+  "title": "Employee Bonus",
+  "slug": "employee-bonus",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1520 ms",
+  "memory": "0.0B",
+  "date": "2024-12-31",
+  "tags": [
+    "Database"
+  ]
+}

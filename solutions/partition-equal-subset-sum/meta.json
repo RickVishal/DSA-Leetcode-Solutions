@@ -1,0 +1,14 @@
+{
+  "id": "416",
+  "title": "Partition Equal Subset Sum",
+  "slug": "partition-equal-subset-sum",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "1738 ms",
+  "memory": "32.9 MB",
+  "date": "2024-09-23",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ]
+}

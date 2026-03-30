@@ -1,0 +1,15 @@
+{
+  "id": "442",
+  "title": "Find All Duplicates in an Array",
+  "slug": "find-all-duplicates-in-an-array",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "27 ms",
+  "memory": "36.2 MB",
+  "date": "2025-05-29",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ]
+}

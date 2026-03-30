@@ -1,0 +1,15 @@
+{
+  "id": "14",
+  "title": "Longest Common Prefix",
+  "slug": "longest-common-prefix",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "16.6 MB",
+  "date": "2024-10-20",
+  "tags": [
+    "Array",
+    "String",
+    "Trie"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "slug": "longest-substring-without-repeating-characters",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "53 ms",
+  "memory": "16.5 MB",
+  "date": "2024-06-01",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ]
+}

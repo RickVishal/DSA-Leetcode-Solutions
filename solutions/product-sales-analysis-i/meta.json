@@ -1,0 +1,13 @@
+{
+  "id": "1068",
+  "title": "Product Sales Analysis I",
+  "slug": "product-sales-analysis-i",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "2064 ms",
+  "memory": "0.0B",
+  "date": "2024-12-26",
+  "tags": [
+    "Database"
+  ]
+}

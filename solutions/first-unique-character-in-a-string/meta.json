@@ -1,0 +1,16 @@
+{
+  "id": "387",
+  "title": "First Unique Character in a String",
+  "slug": "first-unique-character-in-a-string",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "81 ms",
+  "memory": "17.8 MB",
+  "date": "2025-01-22",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+  ]
+}

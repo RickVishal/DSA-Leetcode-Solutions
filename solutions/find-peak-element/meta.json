@@ -1,0 +1,14 @@
+{
+  "id": "162",
+  "title": "Find Peak Element",
+  "slug": "find-peak-element",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "18 MB",
+  "date": "2025-05-20",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "40",
+  "title": "Combination Sum II",
+  "slug": "combination-sum-ii",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "19 ms",
+  "memory": "16.7 MB",
+  "date": "2024-10-23",
+  "tags": [
+    "Array",
+    "Backtracking"
+  ]
+}

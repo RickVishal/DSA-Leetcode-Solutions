@@ -1,0 +1,16 @@
+{
+  "id": "104",
+  "title": "Maximum Depth of Binary Tree",
+  "slug": "maximum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "38 ms",
+  "memory": "17.7 MB",
+  "date": "2024-09-21",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ]
+}

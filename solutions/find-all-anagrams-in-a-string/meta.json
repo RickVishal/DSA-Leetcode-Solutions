@@ -1,0 +1,15 @@
+{
+  "id": "438",
+  "title": "Find All Anagrams in a String",
+  "slug": "find-all-anagrams-in-a-string",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "220 ms",
+  "memory": "17.1 MB",
+  "date": "2024-10-29",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ]
+}

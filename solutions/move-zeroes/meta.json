@@ -1,0 +1,14 @@
+{
+  "id": "283",
+  "title": "Move Zeroes",
+  "slug": "move-zeroes",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "7 ms",
+  "memory": "17.6 MB",
+  "date": "2024-10-27",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1903",
+  "title": "Largest Odd Number in String",
+  "slug": "largest-odd-number-in-string",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "12 ms",
+  "memory": "17.8 MB",
+  "date": "2024-10-20",
+  "tags": [
+    "Math",
+    "String",
+    "Greedy"
+  ]
+}

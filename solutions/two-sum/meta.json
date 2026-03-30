@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "39 ms",
+  "memory": "17.8 MB",
+  "date": "2024-09-05",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ]
+}

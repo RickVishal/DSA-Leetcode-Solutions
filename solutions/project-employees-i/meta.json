@@ -1,0 +1,13 @@
+{
+  "id": "1075",
+  "title": "Project Employees I",
+  "slug": "project-employees-i",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "723 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}

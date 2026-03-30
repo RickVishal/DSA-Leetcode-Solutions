@@ -1,0 +1,16 @@
+{
+  "id": "992",
+  "title": "Subarrays with K Different Integers",
+  "slug": "subarrays-with-k-different-integers",
+  "difficulty": "Hard",
+  "language": "python3",
+  "runtime": "139 ms",
+  "memory": "19.6 MB",
+  "date": "2024-10-25",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Counting"
+  ]
+}

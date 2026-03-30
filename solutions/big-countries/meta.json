@@ -1,0 +1,13 @@
+{
+  "id": "595",
+  "title": "Big Countries",
+  "slug": "big-countries",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "260 ms",
+  "memory": "0.0B",
+  "date": "2024-11-25",
+  "tags": [
+    "Database"
+  ]
+}

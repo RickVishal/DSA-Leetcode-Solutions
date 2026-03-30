@@ -1,0 +1,14 @@
+{
+  "id": "118",
+  "title": "Pascal's Triangle",
+  "slug": "pascals-triangle",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "38 ms",
+  "memory": "16.6 MB",
+  "date": "2024-06-28",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1148",
+  "title": "Article Views I",
+  "slug": "article-views-i",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "370 ms",
+  "memory": "0.0B",
+  "date": "2024-11-25",
+  "tags": [
+    "Database"
+  ]
+}

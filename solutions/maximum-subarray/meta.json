@@ -1,0 +1,15 @@
+{
+  "id": "53",
+  "title": "Maximum Subarray",
+  "slug": "maximum-subarray",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "554 ms",
+  "memory": "31 MB",
+  "date": "2024-07-03",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ]
+}

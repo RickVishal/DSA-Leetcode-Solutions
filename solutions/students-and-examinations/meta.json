@@ -1,0 +1,13 @@
+{
+  "id": "1280",
+  "title": "Students and Examinations",
+  "slug": "students-and-examinations",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "965 ms",
+  "memory": "0.0B",
+  "date": "2024-12-31",
+  "tags": [
+    "Database"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "31",
+  "title": "Next Permutation",
+  "slug": "next-permutation",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "47 ms",
+  "memory": "16.5 MB",
+  "date": "2024-06-28",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ]
+}

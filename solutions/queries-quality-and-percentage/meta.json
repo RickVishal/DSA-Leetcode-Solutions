@@ -1,0 +1,13 @@
+{
+  "id": "1211",
+  "title": "Queries Quality and Percentage",
+  "slug": "queries-quality-and-percentage",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1265 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}

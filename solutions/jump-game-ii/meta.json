@@ -1,0 +1,15 @@
+{
+  "id": "45",
+  "title": "Jump Game II",
+  "slug": "jump-game-ii",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "104 ms",
+  "memory": "17.6 MB",
+  "date": "2024-07-18",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ]
+}

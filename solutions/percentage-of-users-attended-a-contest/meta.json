@@ -1,0 +1,13 @@
+{
+  "id": "1633",
+  "title": "Percentage of Users Attended a Contest",
+  "slug": "percentage-of-users-attended-a-contest",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1937 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}

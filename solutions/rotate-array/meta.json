@@ -1,0 +1,15 @@
+{
+  "id": "189",
+  "title": "Rotate Array",
+  "slug": "rotate-array",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "25.5 MB",
+  "date": "2025-01-22",
+  "tags": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ]
+}

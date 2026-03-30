@@ -1,0 +1,15 @@
+{
+  "id": "160",
+  "title": "Intersection of Two Linked Lists",
+  "slug": "intersection-of-two-linked-lists",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "48.6 MB",
+  "date": "2024-06-24",
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+  ]
+}

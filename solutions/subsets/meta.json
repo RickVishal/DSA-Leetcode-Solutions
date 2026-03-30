@@ -1,0 +1,15 @@
+{
+  "id": "78",
+  "title": "Subsets",
+  "slug": "subsets",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "16.8 MB",
+  "date": "2024-10-22",
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ]
+}

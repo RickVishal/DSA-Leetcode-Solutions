@@ -1,0 +1,14 @@
+{
+  "id": "56",
+  "title": "Merge Intervals",
+  "slug": "merge-intervals",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "7 ms",
+  "memory": "21.8 MB",
+  "date": "2025-05-29",
+  "tags": [
+    "Array",
+    "Sorting"
+  ]
+}

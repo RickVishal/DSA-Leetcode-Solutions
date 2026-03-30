@@ -1,0 +1,15 @@
+{
+  "id": "70",
+  "title": "Climbing Stairs",
+  "slug": "climbing-stairs",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "46 ms",
+  "memory": "16.5 MB",
+  "date": "2024-07-15",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ]
+}

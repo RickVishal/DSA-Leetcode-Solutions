@@ -1,0 +1,14 @@
+{
+  "id": "121",
+  "title": "Best Time to Buy and Sell Stock",
+  "slug": "best-time-to-buy-and-sell-stock",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "692 ms",
+  "memory": "27.4 MB",
+  "date": "2024-06-01",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "167",
+  "title": "Two Sum II - Input Array Is Sorted",
+  "slug": "two-sum-ii-input-array-is-sorted",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "99 ms",
+  "memory": "17.4 MB",
+  "date": "2024-05-31",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ]
+}

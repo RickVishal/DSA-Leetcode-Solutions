@@ -1,0 +1,13 @@
+{
+  "id": "584",
+  "title": "Find Customer Referee",
+  "slug": "find-customer-referee",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "496 ms",
+  "memory": "0.0B",
+  "date": "2024-11-25",
+  "tags": [
+    "Database"
+  ]
+}

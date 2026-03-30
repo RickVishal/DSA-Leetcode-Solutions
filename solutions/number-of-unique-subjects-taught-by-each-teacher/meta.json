@@ -1,0 +1,13 @@
+{
+  "id": "2356",
+  "title": "Number of Unique Subjects Taught by Each Teacher",
+  "slug": "number-of-unique-subjects-taught-by-each-teacher",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1122 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "136",
+  "title": "Single Number",
+  "slug": "single-number",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "18.9 MB",
+  "date": "2024-10-27",
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ]
+}

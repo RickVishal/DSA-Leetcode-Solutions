@@ -1,0 +1,13 @@
+{
+  "id": "9",
+  "title": "Palindrome Number",
+  "slug": "palindrome-number",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "56 ms",
+  "memory": "16.5 MB",
+  "date": "2024-06-01",
+  "tags": [
+    "Math"
+  ]
+}

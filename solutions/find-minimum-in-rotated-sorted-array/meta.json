@@ -1,0 +1,14 @@
+{
+  "id": "153",
+  "title": "Find Minimum in Rotated Sorted Array",
+  "slug": "find-minimum-in-rotated-sorted-array",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "46 ms",
+  "memory": "16.7 MB",
+  "date": "2024-09-15",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ]
+}

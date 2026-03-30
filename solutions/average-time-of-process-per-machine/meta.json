@@ -1,0 +1,13 @@
+{
+  "id": "1661",
+  "title": "Average Time of Process per Machine",
+  "slug": "average-time-of-process-per-machine",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1546 ms",
+  "memory": "0.0B",
+  "date": "2024-12-31",
+  "tags": [
+    "Database"
+  ]
+}

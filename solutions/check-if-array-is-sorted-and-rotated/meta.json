@@ -1,0 +1,13 @@
+{
+  "id": "1752",
+  "title": "Check if Array Is Sorted and Rotated",
+  "slug": "check-if-array-is-sorted-and-rotated",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "16.7 MB",
+  "date": "2024-10-27",
+  "tags": [
+    "Array"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27",
+  "title": "Remove Element",
+  "slug": "remove-element",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "17.4 MB",
+  "date": "2024-11-28",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "796",
+  "title": "Rotate String",
+  "slug": "rotate-string",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "16.6 MB",
+  "date": "2024-10-20",
+  "tags": [
+    "String",
+    "String Matching"
+  ]
+}

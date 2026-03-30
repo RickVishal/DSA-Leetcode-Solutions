@@ -1,0 +1,15 @@
+{
+  "id": "977",
+  "title": "Squares of a Sorted Array",
+  "slug": "squares-of-a-sorted-array",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "5 ms",
+  "memory": "18.2 MB",
+  "date": "2024-11-28",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ]
+}

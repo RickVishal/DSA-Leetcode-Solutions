@@ -1,0 +1,13 @@
+{
+  "id": "197",
+  "title": "Rising Temperature",
+  "slug": "rising-temperature",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "766 ms",
+  "memory": "0.0B",
+  "date": "2024-12-30",
+  "tags": [
+    "Database"
+  ]
+}

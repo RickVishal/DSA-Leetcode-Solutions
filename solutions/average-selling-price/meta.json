@@ -1,0 +1,13 @@
+{
+  "id": "1251",
+  "title": "Average Selling Price",
+  "slug": "average-selling-price",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1440 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}

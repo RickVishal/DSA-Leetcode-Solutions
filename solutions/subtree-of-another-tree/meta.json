@@ -1,0 +1,17 @@
+{
+  "id": "572",
+  "title": "Subtree of Another Tree",
+  "slug": "subtree-of-another-tree",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "67 ms",
+  "memory": "16.8 MB",
+  "date": "2024-09-21",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ]
+}

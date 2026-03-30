@@ -1,0 +1,15 @@
+{
+  "id": "73",
+  "title": "Set Matrix Zeroes",
+  "slug": "set-matrix-zeroes",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "103 ms",
+  "memory": "17.4 MB",
+  "date": "2024-06-28",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ]
+}

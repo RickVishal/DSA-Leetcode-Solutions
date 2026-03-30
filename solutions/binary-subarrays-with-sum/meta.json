@@ -1,0 +1,16 @@
+{
+  "id": "930",
+  "title": "Binary Subarrays With Sum",
+  "slug": "binary-subarrays-with-sum",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "32 ms",
+  "memory": "17.8 MB",
+  "date": "2024-10-24",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Prefix Sum"
+  ]
+}

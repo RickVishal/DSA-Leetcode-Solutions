@@ -1,0 +1,14 @@
+{
+  "id": "151",
+  "title": "Reverse Words in a String",
+  "slug": "reverse-words-in-a-string",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "16.7 MB",
+  "date": "2024-10-20",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ]
+}

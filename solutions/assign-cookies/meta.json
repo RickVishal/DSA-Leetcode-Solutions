@@ -1,0 +1,16 @@
+{
+  "id": "455",
+  "title": "Assign Cookies",
+  "slug": "assign-cookies",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "133 ms",
+  "memory": "18.4 MB",
+  "date": "2024-07-18",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ]
+}

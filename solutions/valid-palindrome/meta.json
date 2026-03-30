@@ -1,0 +1,14 @@
+{
+  "id": "125",
+  "title": "Valid Palindrome",
+  "slug": "valid-palindrome",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "38 ms",
+  "memory": "22.9 MB",
+  "date": "2024-07-13",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "860",
+  "title": "Lemonade Change",
+  "slug": "lemonade-change",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "611 ms",
+  "memory": "21.2 MB",
+  "date": "2024-07-18",
+  "tags": [
+    "Array",
+    "Greedy"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1581",
+  "title": "Customer Who Visited but Did Not Make Any Transactions",
+  "slug": "customer-who-visited-but-did-not-make-any-transactions",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "1525 ms",
+  "memory": "0.0B",
+  "date": "2024-12-30",
+  "tags": [
+    "Database"
+  ]
+}

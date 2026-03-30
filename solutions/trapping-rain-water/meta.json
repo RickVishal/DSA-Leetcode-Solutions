@@ -1,0 +1,17 @@
+{
+  "id": "42",
+  "title": "Trapping Rain Water",
+  "slug": "trapping-rain-water",
+  "difficulty": "Hard",
+  "language": "python3",
+  "runtime": "98 ms",
+  "memory": "18.6 MB",
+  "date": "2024-06-01",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20",
+  "title": "Valid Parentheses",
+  "slug": "valid-parentheses",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "25 ms",
+  "memory": "16.5 MB",
+  "date": "2024-07-03",
+  "tags": [
+    "String",
+    "Stack"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "48",
+  "title": "Rotate Image",
+  "slug": "rotate-image",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "17.8 MB",
+  "date": "2025-05-29",
+  "tags": [
+    "Array",
+    "Math",
+    "Matrix"
+  ]
+}

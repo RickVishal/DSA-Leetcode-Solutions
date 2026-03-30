@@ -1,0 +1,16 @@
+{
+  "id": "226",
+  "title": "Invert Binary Tree",
+  "slug": "invert-binary-tree",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "37 ms",
+  "memory": "16.5 MB",
+  "date": "2024-09-21",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ]
+}

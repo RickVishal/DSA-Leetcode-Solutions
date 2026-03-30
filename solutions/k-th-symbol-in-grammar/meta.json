@@ -1,0 +1,15 @@
+{
+  "id": "779",
+  "title": "K-th Symbol in Grammar",
+  "slug": "k-th-symbol-in-grammar",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "17.6 MB",
+  "date": "2025-02-19",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ]
+}

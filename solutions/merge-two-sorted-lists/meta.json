@@ -1,0 +1,14 @@
+{
+  "id": "21",
+  "title": "Merge Two Sorted Lists",
+  "slug": "merge-two-sorted-lists",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": "0 ms",
+  "memory": "42.2 MB",
+  "date": "2024-06-24",
+  "tags": [
+    "Linked List",
+    "Recursion"
+  ]
+}

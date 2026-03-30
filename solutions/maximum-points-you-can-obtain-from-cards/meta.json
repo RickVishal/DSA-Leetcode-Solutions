@@ -1,0 +1,15 @@
+{
+  "id": "1423",
+  "title": "Maximum Points You Can Obtain from Cards",
+  "slug": "maximum-points-you-can-obtain-from-cards",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "23 ms",
+  "memory": "27.1 MB",
+  "date": "2024-10-25",
+  "tags": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ]
+}

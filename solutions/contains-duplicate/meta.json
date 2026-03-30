@@ -1,0 +1,15 @@
+{
+  "id": "217",
+  "title": "Contains Duplicate",
+  "slug": "contains-duplicate",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "431 ms",
+  "memory": "31.9 MB",
+  "date": "2024-07-03",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ]
+}

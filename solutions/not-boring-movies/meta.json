@@ -1,0 +1,13 @@
+{
+  "id": "620",
+  "title": "Not Boring Movies",
+  "slug": "not-boring-movies",
+  "difficulty": "Easy",
+  "language": "mysql",
+  "runtime": "247 ms",
+  "memory": "0.0B",
+  "date": "2025-01-10",
+  "tags": [
+    "Database"
+  ]
+}
