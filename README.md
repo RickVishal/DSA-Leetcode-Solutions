@@ -2,10 +2,10 @@
 
 Auto-synced from LeetCode via GitHub Actions.
 
-> Last updated: 2026-03-30 07:23 UTC
+> Last updated: 2026-03-31 04:33 UTC
 
 
-**94 problems solved**
+**96 problems solved**
 
 
 | # | Title | Difficulty | Language | Runtime | Memory | Date |
@@ -62,6 +62,7 @@ Auto-synced from LeetCode via GitHub Actions.
 | 217 | [Contains Duplicate](solutions/contains-duplicate/solution.py) | 🟢 Easy | python3 | 431 ms | 31.9 MB | 2024-07-03 |
 | 226 | [Invert Binary Tree](solutions/invert-binary-tree/solution.py) | 🟢 Easy | python3 | 37 ms | 16.5 MB | 2024-09-21 |
 | 238 | [Product of Array Except Self](solutions/product-of-array-except-self/solution.py) | 🟡 Medium | python3 | 305 ms | 45.3 MB | 2024-06-13 |
+| 242 | [Valid Anagram](solutions/valid-anagram/solution.py) | 🟢 Easy | python3 | 51 ms | 17.5 MB | 2024-07-17 |
 | 268 | [Missing Number](solutions/missing-number/solution.py) | 🟢 Easy | python3 | 0 ms | 17.6 MB | 2024-10-27 |
 | 283 | [Move Zeroes](solutions/move-zeroes/solution.py) | 🟢 Easy | python3 | 7 ms | 17.6 MB | 2024-10-27 |
 | 287 | [Find the Duplicate Number](solutions/find-the-duplicate-number/solution.py) | 🟡 Medium | python3 | 51 ms | 39.5 MB | 2025-01-22 |
@@ -94,6 +95,7 @@ Auto-synced from LeetCode via GitHub Actions.
 | 1248 | [Count Number of Nice Subarrays](solutions/count-number-of-nice-subarrays/solution.py) | 🟡 Medium | python3 | 119 ms | 22 MB | 2024-10-24 |
 | 1251 | [Average Selling Price](solutions/average-selling-price/solution.sql) | 🟢 Easy | mysql | 1440 ms | 0.0B | 2025-01-10 |
 | 1280 | [Students and Examinations](solutions/students-and-examinations/solution.sql) | 🟢 Easy | mysql | 965 ms | 0.0B | 2024-12-31 |
+| 1358 | [Number of Substrings Containing All Three Characters](solutions/number-of-substrings-containing-all-three-characters/solution.py) | 🟡 Medium | python3 | 440 ms | 17 MB | 2024-07-17 |
 | 1378 | [Replace Employee ID With The Unique Identifier](solutions/replace-employee-id-with-the-unique-identifier/solution.sql) | 🟢 Easy | mysql | 1197 ms | 0.0B | 2024-11-25 |
 | 1423 | [Maximum Points You Can Obtain from Cards](solutions/maximum-points-you-can-obtain-from-cards/solution.py) | 🟡 Medium | python3 | 23 ms | 27.1 MB | 2024-10-25 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](solutions/customer-who-visited-but-did-not-make-any-transactions/solution.sql) | 🟢 Easy | mysql | 1525 ms | 0.0B | 2024-12-30 |

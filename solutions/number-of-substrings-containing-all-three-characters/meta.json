@@ -1,0 +1,15 @@
+{
+  "id": "1358",
+  "title": "Number of Substrings Containing All Three Characters",
+  "slug": "number-of-substrings-containing-all-three-characters",
+  "difficulty": "Medium",
+  "language": "python3",
+  "runtime": "440 ms",
+  "memory": "17 MB",
+  "date": "2024-07-17",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ]
+}

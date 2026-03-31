@@ -1,0 +1,15 @@
+{
+  "id": "242",
+  "title": "Valid Anagram",
+  "slug": "valid-anagram",
+  "difficulty": "Easy",
+  "language": "python3",
+  "runtime": "51 ms",
+  "memory": "17.5 MB",
+  "date": "2024-07-17",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ]
+}
