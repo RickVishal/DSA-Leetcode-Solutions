@@ -2,7 +2,7 @@
 
 Auto-synced from LeetCode via GitHub Actions.
 
-> Last updated: 2026-04-03 04:27 UTC
+> Last updated: 2026-04-04 04:13 UTC
 
 
 **96 problems solved**
